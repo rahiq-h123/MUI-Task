@@ -26,7 +26,7 @@ const Chat = () => {
       }}
     >
       <Typography sx={{ fontSize: 24, fontWeight: "regular" }}>
-        Login Form
+        Chat App
       </Typography>
       <Card
         sx={{
